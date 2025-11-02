@@ -1,0 +1,7 @@
+C:\Users\Calebe\Documents\PROJETOS\TesteTecnico\testeTecnico\obj\Debug\net8.0\testeTecnico.csproj.AssemblyReference.cache
+C:\Users\Calebe\Documents\PROJETOS\TesteTecnico\testeTecnico\obj\Debug\net8.0\testeTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calebe\Documents\PROJETOS\TesteTecnico\testeTecnico\obj\Debug\net8.0\testeTecnico.AssemblyInfoInputs.cache
+C:\Users\Calebe\Documents\PROJETOS\TesteTecnico\testeTecnico\obj\Debug\net8.0\testeTecnico.AssemblyInfo.cs
+C:\Users\Calebe\Documents\PROJETOS\TesteTecnico\testeTecnico\obj\Debug\net8.0\testeTecnico.csproj.CoreCompileInputs.cache
+C:\Users\Calebe\Documents\PROJETOS\TesteTecnico\testeTecnico\obj\Debug\net8.0\testeTecnico.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Calebe\Documents\PROJETOS\TesteTecnico\testeTecnico\obj\Debug\net8.0\testeTecnico.MvcApplicationPartsAssemblyInfo.cache

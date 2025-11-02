@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\testeTecnico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\services\\produtoservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6538B503-FDC5-42E7-A42C-0012631C81CF}|..\\Api\\Api.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6538B503-FDC5-42E7-A42C-0012631C81CF}|..\\Api\\Api.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\api\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB87B4FF-4C1A-4D75-BF65-8D27919BC4A0}|Testes\\Testes.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\testetecnico\\testes\\services\\pedidoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB87B4FF-4C1A-4D75-BF65-8D27919BC4A0}|Testes\\Testes.csproj|solutionrelative:testes\\services\\pedidoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1332D6-4CCA-42D2-B26E-97C5C7280CD5}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\infrastructure\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1332D6-4CCA-42D2-B26E-97C5C7280CD5}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\infrastructure\\migrations\\20251101224208_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C4373F-587C-4CEC-B535-DAAD83F11541}|..\\Domain\\Domain.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C4373F-587C-4CEC-B535-DAAD83F11541}|..\\Domain\\Domain.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C4373F-587C-4CEC-B535-DAAD83F11541}|..\\Domain\\Domain.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\domain\\entities\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\mapping\\produtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\mapping\\pedidoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6538B503-FDC5-42E7-A42C-0012631C81CF}|..\\Api\\Api.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\api\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\dtos\\itempedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF95090-0F04-41BB-AE4B-563F906817DD}|..\\Application\\Application.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\application\\dtos\\criarpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6538B503-FDC5-42E7-A42C-0012631C81CF}|..\\Api\\Api.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6538B503-FDC5-42E7-A42C-0012631C81CF}|..\\Api\\Api.csproj|c:\\users\\calebe\\documents\\projetos\\testetecnico\\backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoService .cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Services\\ProdutoService .cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ProdutoService .cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Services\\ProdutoService .cs",
+              "RelativeToolTip": "..\\Application\\Services\\ProdutoService .cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:04:01.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Interfaces\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IProdutoService.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Interfaces\\IProdutoService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:27:49.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PedidoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Mapping\\PedidoProfile.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Mapping\\PedidoProfile.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Mapping\\PedidoProfile.cs",
+              "RelativeToolTip": "..\\Application\\Mapping\\PedidoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:09:27.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persistence.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Infrastructure\\Persistence.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Persistence.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Infrastructure\\Persistence.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Persistence.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:09:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\PedidosController.cs",
+              "RelativeDocumentMoniker": "..\\Api\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\PedidosController.cs",
+              "RelativeToolTip": "..\\Api\\PedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:24:06.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Services\\PedidoService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\PedidoService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:32:17.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\Program.cs",
+              "RelativeToolTip": "..\\Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T23:52:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Domain\\Entities\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\ItemPedido.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Domain\\Entities\\ItemPedido.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:29:50.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251101224208_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Infrastructure\\Migrations\\20251101224208_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20251101224208_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Infrastructure\\Migrations\\20251101224208_InitialCreate.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20251101224208_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:30:02.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\testeTecnico\\Testes\\Services\\PedidoServiceTests.cs",
+              "RelativeDocumentMoniker": "Testes\\Services\\PedidoServiceTests.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\testeTecnico\\Testes\\Services\\PedidoServiceTests.cs",
+              "RelativeToolTip": "Testes\\Services\\PedidoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:30:28.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Interfaces\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Interfaces\\IPedidoService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\IPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:35:26.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "..\\Api\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\ProdutosController.cs",
+              "RelativeToolTip": "..\\Api\\ProdutosController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:07:17.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Mapping\\ProdutoProfile.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Mapping\\ProdutoProfile.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\Mapping\\ProdutoProfile.cs",
+              "RelativeToolTip": "..\\Application\\Mapping\\ProdutoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:09:20.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:09:52.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:09:52.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\DTOs\\ProdutoDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\ProdutoDto.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\DTOs\\ProdutoDto.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\ProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:05:23.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\DTOs\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\PedidoDto.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\DTOs\\PedidoDto.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\PedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:11:22.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemPedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\DTOs\\ItemPedidoDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\ItemPedidoDto.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\DTOs\\ItemPedidoDto.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\ItemPedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:11:14.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CriarPedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\DTOs\\CriarPedidoDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\CriarPedidoDto.cs",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Application\\DTOs\\CriarPedidoDto.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\CriarPedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:11:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\appsettings.json",
+              "RelativeToolTip": "..\\Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T01:27:11.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Calebe\\Documents\\PROJETOS\\TesteTecnico\\BackEnd\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "..\\Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAADDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T01:27:26.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
